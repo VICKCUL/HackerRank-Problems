@@ -1,0 +1,1 @@
+given a list with n elements, divide them into sublists with K elements. Every element in the original list must appear in one of the sublist, and each sublist elements has to be distinct.
