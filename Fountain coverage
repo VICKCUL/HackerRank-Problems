@@ -1,0 +1,3 @@
+a one-dimentional garden with size n, and we have n fountains corresponds to a list of size n. 
+The element of the list describes the coverage areas of the ith fountain can reach.
+At least how many fountains need to turn on for the whole garden.
