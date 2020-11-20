@@ -1,0 +1,1 @@
+n processor, each with 4 cores. Given a list of 4*n tasks with the required time. If each processor has frozen time, what is the min time to finish all the tasks.
